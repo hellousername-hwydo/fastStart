@@ -1,0 +1,2 @@
+# fastStart
+getCodeFast
